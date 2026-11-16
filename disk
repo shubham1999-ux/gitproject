@@ -1,0 +1,13 @@
+df -h 
+df -hT
+df -ha
+free -h 
+free -ha 
+ls 
+rm 
+rm -rf 
+pwd 
+ls -l
+ps aux
+ps -ef 
+top 
